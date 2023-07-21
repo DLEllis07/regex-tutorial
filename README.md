@@ -22,3 +22,8 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+## Links
+GitHub: https://github.com/DLEllis07/regex-tutorial
+Gist: https://gist.github.com/DLEllis07/c6ef8ce0ada6a40f8ffc9d278e5ce5e4
+
+

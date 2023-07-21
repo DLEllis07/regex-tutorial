@@ -24,6 +24,6 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ```
 ## Links
 GitHub: https://github.com/DLEllis07/regex-tutorial
-Gist: https://gist.github.com/DLEllis07/c6ef8ce0ada6a40f8ffc9d278e5ce5e4
+
 
 
